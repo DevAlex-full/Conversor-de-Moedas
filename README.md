@@ -13,15 +13,7 @@ Uma aplicação web moderna e responsiva para conversão de moedas em tempo real
 
 ## 🚀 Demo
 
-[Ver Demo ao Vivo](https://devalex-full.github.io/conversor-moedas) _(substitua pelo seu link)_
-
-## 📱 Capturas de Tela
-
-### Desktop
-![Desktop Screenshot](./screenshots/desktop.png)
-
-### Mobile
-![Mobile Screenshot](./screenshots/mobile.png)
+[Ver Demo ao Vivo](https://devalex-full.github.io/Conversor-de-Moedas/) _(substitua pelo seu link)_
 
 ## 🛠️ Tecnologias Utilizadas
 
